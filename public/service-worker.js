@@ -27,4 +27,25 @@ self.addEventListener('install', function (e) {
         return cache.addAll(FILES_TO_CACHE)
       })
     )
-  })
+  });
+
+// Activation step
+self.addEventListener('activate', function (e){
+    e.waitUntil(
+        caches.keys().then(function (keylist){
+            let cacheKeeplist = keyList.filter(function (key){
+                return key.indexOf(APP_PREFIX);
+            });
+            cacheKeeplist.push(CACHE_NAME);
+
+            return Promise.all(
+                keyList.map(function(key,i){
+                    if(cacheKeeplist.indexOf(key)===-1{
+                        console.log('deleting cache : ' + keyList[i]);
+                        return caches.delete(keyList[i]);
+                    })
+                })
+            )
+        })
+    )
+})
