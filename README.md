@@ -16,21 +16,14 @@ To give users access to track and manage money any time. Even when there is no i
 
 ## Category
 
-#### Get Categories
-![](images/getCategories.PNG)
+#### Install App
+![](images/installApp.PNG)
 
+#### Offline post
+![](images/offlinePost.PNG)
 
-![](images/deleteCategoryByID.PNG)
-
-## Product
-
-#### Get Products
-![](images/getProducts.PNG)
-
-#### Create a new Product
-![](images/createNewProduct.PNG)
-
-
+#### Online repost
+![](images/onlineRepost.PNG)
 
 ## Relavent links
 Heroku link: https://budget-tracker-manjula.herokuapp.com/
