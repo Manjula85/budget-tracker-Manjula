@@ -1,10 +1,7 @@
-# budget-tracker-Manjula
-To track money
-
-# E-commerce website
+# Budget tracking website
 
 ## Purpose
-To create a website to monitor and manupulate store inventory and manage customer information.
+To give users access to track and manage money any time. Even when there is no internet connection!
 
 ## Built with
 * JavaScript
@@ -12,9 +9,9 @@ To create a website to monitor and manupulate store inventory and manage custome
 
 ## npm 
 * Express
-* dotenv
-* sequelize
-* express
+* compression
+* mongoose
+* morgan
 * routes
 
 ## Category
@@ -22,16 +19,7 @@ To create a website to monitor and manupulate store inventory and manage custome
 #### Get Categories
 ![](images/getCategories.PNG)
 
-#### Create a new Category
-![](images/createNewCategory.PNG)
 
-#### Get Category by ID
-![](images/getCategoryByID.PNG)
-
-#### Update Category
-![](images/updateCategory.PNG)
-
-#### Delete Category by ID
 ![](images/deleteCategoryByID.PNG)
 
 ## Product
@@ -42,27 +30,9 @@ To create a website to monitor and manupulate store inventory and manage custome
 #### Create a new Product
 ![](images/createNewProduct.PNG)
 
-#### Get Product by ID
-![](images/getProductByID.PNG)
 
-#### Update Product
-![](images/updateProduct.PNG)
-
-#### Delete Product by ID
-![](images/deleteProductByID.PNG)
-
-## Tag
-
-#### Get Tags
-![](images/getTag.PNG)
-
-#### Create a new Tag
-![](images/createNewTag.PNG)
-
-#### Delete Tag by ID
-![](images/deleteTagByID.PNG)
 
 ## Relavent links
-Walkthrough link: https://drive.google.com/file/d/1HWiMuvherL9isZBzIcscuF6jdaZ_c2Hw/view
+Heroku link: https://budget-tracker-manjula.herokuapp.com/
 
-Git hub link: https://github.com/Manjula85/e-commerce-Manjula
+Git hub link: https://github.com/Manjula85/budget-tracker-Manjula
