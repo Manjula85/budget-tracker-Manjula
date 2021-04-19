@@ -25,7 +25,7 @@ To give users access to track and manage money any time. Even when there is no i
 #### Online repost
 ![](/public/images/onlineRepost.PNG)
 
-## Relavent links
+## Relevent links
 Heroku link: https://budget-tracker-manjula.herokuapp.com/
 
 Git hub link: https://github.com/Manjula85/budget-tracker-Manjula
