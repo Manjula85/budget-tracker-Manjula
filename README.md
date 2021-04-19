@@ -17,13 +17,13 @@ To give users access to track and manage money any time. Even when there is no i
 ## Category
 
 #### Install App
-![](images/installApp.PNG)
+![](/public/images/installApp.PNG)
 
 #### Offline post
-![](images/offlinePost.PNG)
+![](/public/images/offlinePost.PNG)
 
 #### Online repost
-![](images/onlineRepost.PNG)
+![](/public/images/onlineRepost.PNG)
 
 ## Relavent links
 Heroku link: https://budget-tracker-manjula.herokuapp.com/
