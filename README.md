@@ -17,7 +17,7 @@ To give users access to track and manage money any time. Even when there is no i
 ## Category
 
 #### Install App
-![](/public/images/installApp.PNG)
+![](/public/images/appInstall.PNG)
 
 #### Offline post
 ![](/public/images/offlinePost.PNG)
